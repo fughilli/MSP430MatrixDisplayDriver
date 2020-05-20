@@ -1,0 +1,65 @@
+#ifndef TONES_H
+#define TONES_H
+
+#define TONE_C4 261
+#define TONE_Cs4 277
+#define TONE_D4 294
+#define TONE_Ds4 311
+#define TONE_E4 329
+#define TONE_F4 349
+#define TONE_Fs4 370
+#define TONE_G4 392
+#define TONE_Gs4 415
+#define TONE_A4 440
+#define TONE_As4 466
+#define TONE_B4 494
+#define TONE_C5 523
+#define TONE_Cs5 554
+#define TONE_D5 587
+#define TONE_Ds5 622
+#define TONE_E5 659
+#define TONE_F5 698
+#define TONE_Fs5 740
+#define TONE_G5 784
+#define TONE_Gs5 831
+#define TONE_A5 880
+#define TONE_As5 932
+#define TONE_B5 988
+#define TONE_C6 1046
+#define TONE_Cs6 1109
+#define TONE_D6 1175
+#define TONE_Ds6 1245
+#define TONE_E6 1319
+#define TONE_F6 1397
+#define TONE_Fs6 1480
+#define TONE_G6 1568
+#define TONE_Gs6 1661
+#define TONE_A6 1760
+#define TONE_As6 1865
+#define TONE_B6 1976
+#define TONE_C7 2093
+#define TONE_Cs7 2217
+#define TONE_D7 2349
+#define TONE_Ds7 2489
+#define TONE_E7 2637
+#define TONE_F7 2794
+#define TONE_Fs7 2960
+#define TONE_G7 3136
+#define TONE_Gs7 3322
+#define TONE_A7 3520
+#define TONE_As7 3729
+#define TONE_B7 3951
+#define TONE_C8 4186
+#define TONE_Cs8 4434
+#define TONE_D8 4699
+#define TONE_Ds8 4978
+#define TONE_E8 5274
+#define TONE_F8 5588
+#define TONE_Fs8 5920
+#define TONE_G8 6272
+#define TONE_Gs8 6645
+#define TONE_A8 7040
+#define TONE_As8 7459
+#define TONE_B8 7902
+
+#endif
